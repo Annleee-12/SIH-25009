@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:12.03.2026
+## Reference Number:25001177
+## Name:ANNLEE AGHAI DAVIDSON
 
 ## Problem Title
 SIH 25009: Gamified Environmental Education Platform for Schools and Colleges
@@ -33,27 +33,24 @@ Smart Education
 </ul>
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+1. EcoQuest is a gamified mobile and web app where students learn about environmental issues through interactive quizzes, AR-based waste scanning, and real-world eco-missions like tree planting and waste segregation, earning points and digital badges for every action they complete.
+2. It solves the theory-practice gap by connecting real-life eco-actions to in-app progress, focusing on local Punjab issues like stubble burning and groundwater depletion, and giving teachers a simple dashboard to track student progress aligned with NEP 2020 goals.
+3. What makes it unique is the Eco-Metaverse where real actions grow a virtual forest, Green Tokens redeemable for rewards, and an AI Eco-Buddy chatbot that gives personalized daily eco-challenges and adapts to each student's learning pace.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+1.The app is built using React Native for mobile, React.js for web, Node.js backend, PostgreSQL and Firebase for database, TensorFlow Lite for AR waste classification, ARCore and Three.js for augmented reality, and AWS for cloud hosting.
+2. Development follows six phases — research with Punjab schools and wireframing, core app build with gamification engine, AR and AI integration, pilot testing in 5-10 schools, launch with teacher training workshops, and ongoing scaling to other states.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+1. The platform is technically and financially feasible since it uses proven open-source tools like React Native and TensorFlow Lite, starts with free-tier cloud services, and sustains long-term through freemium pricing, Digital India grants, and CSR partnerships.
+2. Key challenges include poor rural internet, low smartphone access, and teacher resistance to new technology adoption in schools.
+3. These are solved through offline-first app design that syncs data later, web access via school computer labs with shared device mode, simple teacher training workshops, and a champion teacher program in each school.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+1. Students gain real environmental skills with digital badges for their profiles, teachers get curriculum-aligned tools with analytics dashboards, and schools improve their NAAC and NIRF green rankings.
+2. Socially it builds eco-conscious citizens, economically it develops green skills and reduces cleanup costs, and environmentally it tracks real impact like trees planted and waste segregated across communities.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1. National Education Policy 2020 by Ministry of Education (https://www.education.gov.in/sites/upload_files/mhrd/files/NEP_Final_English_0.pdf)
+2. Gamified Learning for Sustainability published in MDPI Sustainability Journal 2025 (https://www.mdpi.com/2071-1050/17/6/2694)
+3. Gamified Teaching Tools Bhojtal Lake on IndiaBioscience 2025 (https://indiabioscience.org/columns/education/gamified-teaching-tools-bhojtal-lake)
